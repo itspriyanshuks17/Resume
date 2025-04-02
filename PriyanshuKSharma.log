@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.14)  12 MAR 2025 08:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.14)  2 APR 2025 23:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -619,15 +619,15 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 222.
+(hyperref)                removing `\@ifnextchar' on input line 219.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 229.
+(Font)              <5> on input line 226.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 230.
+(Font)              <7> on input line 227.
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 265.
+(hyperref)                removing `\@ifnextchar' on input line 262.
 
 
 
@@ -636,16 +636,16 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 {C:/Users/priya/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/priya/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc}]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 318.
+(hyperref)                removing `\@ifnextchar' on input line 336.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@ifnextchar' on input line 332.
+(hyperref)                removing `\@ifnextchar' on input line 350.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@enditemize ->\enit@after 
                                \endlist \ifx \enit@series \relax \else \ifnu...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -653,10 +653,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@enditemize ...x \else \ifnum \enit@resuming 
                                                   =\@ne \enit@setresumekeys ...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -664,19 +664,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Missing number, treated as zero.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Missing number, treated as zero.
 <to be read again> 
                    =
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -684,10 +684,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -695,19 +695,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Missing number, treated as zero.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Missing number, treated as zero.
 <to be read again> 
                    =
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 <argument> enit@resume@series@\enit@series 
                                            
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -715,10 +715,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -726,10 +726,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -737,17 +737,17 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: You can't use `\relax' after \the.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 I'm forgetting what you said and using zero instead.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@enditemize ...ist \fi \ifnum \enit@resuming 
                                                   =\thr@@ \enit@setresumekey...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -755,19 +755,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Missing number, treated as zero.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Missing number, treated as zero.
 <to be read again> 
                    =
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...xpandafter {\enit@savekeys 
                                                   }\xdef \enit@afterlist {#2...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -775,10 +775,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...it@toks }\ifnum \enit@type 
                                                   =\z@ #3\def \enit@noexcs {...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -786,19 +786,19 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Missing number, treated as zero.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Missing number, treated as zero.
 <to be read again> 
                    =
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
 look up `weird error' in the index to The TeXbook.)
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...me@#1}{\csname c@\@listctr 
                                                   \endcsname \the \csname c@...
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -806,10 +806,10 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Undefined control sequence.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Undefined control sequence.
 \enit@setresumekeys ...e \the \csname c@\@listctr 
                                                   \endcsname }\fi }
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -817,30 +817,30 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: You can't use `\relax' after \the.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: You can't use `\relax' after \the.
 <recently read> \c@ 
                     
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 I'm forgetting what you said and using zero instead.
 
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: LaTeX Error: \begin{document} ended by \end{itemize}.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: LaTeX Error: \begin{document} ended by \end{itemize}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-d:/Certifications/Resume/PriyanshuKSharma.tex:349: Extra \endgroup.
+d:/Certifications/Resume/PriyanshuKSharma.tex:367: Extra \endgroup.
 <recently read> \endgroup 
                           
-l.349 \resumeItemListEnd
+l.367 \resumeItemListEnd
                         
 Things are pretty mixed up, but I think the worst is over.
 
@@ -864,15 +864,15 @@ Package rerunfilecheck Info: Checksums for `PriyanshuKSharma.out':
 Here is how much of TeX's memory you used:
  25316 strings out of 473938
  486581 string characters out of 5727391
- 1953893 words of memory out of 5000000
+ 1952893 words of memory out of 5000000
  47730 multiletter control sequences out of 15000+600000
  583174 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,7n,93p,445b,629s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/priya/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Users/priya/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchbi8a.pfb><C:/Users/priya/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Users/priya/AppData/Local/Programs/MiKTeX/fonts/type1/bitstrea/charter/bchri8a.pfb><C:/Users/priya/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
-Output written on PriyanshuKSharma.pdf (2 pages, 83967 bytes).
+Output written on PriyanshuKSharma.pdf (2 pages, 84727 bytes).
 PDF statistics:
- 64 PDF objects out of 1000 (max. 8388607)
+ 65 PDF objects out of 1000 (max. 8388607)
  9 named destinations out of 1000 (max. 500000)
  13 words of extra memory for PDF output out of 10000 (max. 10000000)
 
